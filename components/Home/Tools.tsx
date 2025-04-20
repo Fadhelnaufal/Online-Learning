@@ -1,6 +1,5 @@
 import Image from 'next/image'
 import React from 'react'
-import { FaPlay } from 'react-icons/fa'
 
 const Tools = () => {
   return (

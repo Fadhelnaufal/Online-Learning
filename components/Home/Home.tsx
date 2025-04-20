@@ -21,6 +21,7 @@ const Home = () => {
         <Tools />
         <Assesment />
         <ClassManagement />
+        <Tools />
     </div>
   )
 }
