@@ -34,35 +34,12 @@ const Assesment = () => {
               </h3>
     
               {/* Description */}
-              <ul className="mt-8 space-y-6 text-left">
-                <li className="flex items-start gap-4">
-                  <div className="bg-blue-100 text-blue-600 p-2 rounded-full">
-                    
-                  </div>
+              <div className="mt-8 space-y-6 text-left">
                   <p className="text-gray-700 text-justify">
-                    Teachers don’t get lost in the grid view and have a dedicated
-                    Podium space.
+                  Easily launch live assignments, quizzes, and tests.
+                  Student results are automatically entered in the online gradebook.
                   </p>
-                </li>
-    
-                <li className="flex items-start gap-4">
-                  <div className="bg-orange-100 text-orange-500 p-2 rounded-full">
-                    
-                  </div>
-                  <p className="text-gray-700 text-justify">
-                    TA’s and presenters can be moved to the front of the class.
-                  </p>
-                </li>
-    
-                <li className="flex items-start gap-4">
-                  <div className="bg-purple-100 text-purple-500 p-2 rounded-full">
-                   
-                  </div>
-                  <p className="text-gray-700 text-justify">
-                    Teachers can easily see all students and class data at one time.
-                  </p>
-                </li>
-              </ul>
+              </div>
             </div>
           </div>
     </div>

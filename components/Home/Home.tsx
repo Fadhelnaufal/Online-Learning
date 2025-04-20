@@ -8,6 +8,7 @@ import Features from './Features'
 import Tools from './Tools'
 import Assesment from './Assesment'
 import ClassManagement from './ClassManagement'
+import Integrations from './Integrations'
 
 const Home = () => {
   return (
@@ -22,6 +23,7 @@ const Home = () => {
         <Assesment />
         <ClassManagement />
         <Tools />
+        <Integrations />
     </div>
   )
 }
